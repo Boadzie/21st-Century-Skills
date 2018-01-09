@@ -1,0 +1,42 @@
+footer{
+    margin-top: 50px;
+    background-color: black;
+    padding: 26px;
+    color: white;
+}
+
+.wel{
+    color: #4cae4c;
+}
+
+.big{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wek{
+    color: chartreuse;
+}
+
+
+h4{
+    font-weight: bold;
+}
+
+.imag{
+    margin-bottom: 20px;
+}
+
+.carousel-inner > .item > img {
+  width:900em;
+  max-height:500px;
+}
+
+#red{
+    color: red;
+}
+
+.footer {
+   padding-bottom: 20px;
+   font-weight: bold;
+}
